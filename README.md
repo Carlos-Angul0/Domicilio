@@ -1,2 +1,2 @@
-# Domicilio
-Plataforma de domicilios (Parcial)
+# Domicilios
+Plataforma de domicilios (JavaScript, JQuery)
