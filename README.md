@@ -1,2 +1,2 @@
 # Domicilios
-Plataforma de domicilios (JavaScript, JQuery, Php)
+Plataforma de domicilios (JavaScript, JQuery, PHP)
