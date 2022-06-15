@@ -1,0 +1,64 @@
+h3 {
+    padding: 10px;
+    margin: 1px;
+}
+
+nav {
+    width: auto;
+    background-color: darkgray;
+    position: relative;
+    height: 40px;
+}
+
+body {
+      padding-top: 90px;
+    }
+
+table {
+       box-shadow: 0 0 20px 0 darkgray;
+}
+
+aside {
+    width: auto;
+    height: auto;
+    float: left;
+    display: flex;
+    position: fixed;
+    
+}
+
+section {
+    width: auto;
+    height: auto;
+    background-color: darkgray;    
+    float: right;
+    display: block;
+    position: relative;
+    background-color: white;
+}
+
+footer {
+    width: 100%;
+    height: 70px;
+    float: left;
+    display: block;
+    background-color: darkkhaki;
+}
+
+.estilocopy {
+    font-size: x-large;
+    color: crimson;
+}
+
+.estilotelefono {
+    font-size: xx-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: blue;
+}
+
+.estiloLink {
+    font-size: large;
+    color: firebrick;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
